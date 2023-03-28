@@ -1,4 +1,4 @@
-# Exercício 2 de Sistemas Dinâmicos em Redes Complexas
+# Exercício 2 Lista 1 de Sistemas Dinâmicos em Redes Complexas
 # Objetivo do exercício:
 # Implementar uma rotina para calcular a medida de complexidade. Qual o valor da complexidade
 # para a rede de energia elétrica dos EUA (Base powergrid).

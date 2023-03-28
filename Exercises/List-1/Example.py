@@ -7,6 +7,8 @@ import math as math
 #G= nx.read_edgelist("data/lesmis.txt", nodetype=int, data=(('weight',float),))
 # Abre arquivo de rede
 G= nx.read_gml("data/lesmis.gml") # Read the network
+# If the data file has only two columns, use this:
+#G= G=nx.read_edgelist("data/powergrid.txt", nodetype=int)
 
 # Transforma o grafo em rede sem direção
 G = G.to_undirected()

@@ -1,4 +1,4 @@
-# Exercício 1 de Sistemas Dinâmicos em Redes Complexas
+# Exercício 1 Lista 1 de Sistemas Dinâmicos em Redes Complexas
 # Objetivo do exercício:
 # Para a rede do livro "Os miseráveis" (base lesmis), calcule o terceiro e quarto momento do grau.
 from numpy  import *
