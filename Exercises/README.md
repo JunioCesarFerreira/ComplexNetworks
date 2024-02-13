@@ -5,18 +5,28 @@ O diretório de exercícios inclui uma variedade de listas e materiais adicionai
 ### Catálogo dos Exercícios
 
 #### 1. **Listas de Exercícios**
+
    - **Lista 1:** Análise de redes complexas com diversos conjuntos de dados. Inclui exercícios práticos de Python. [Ver Enunciado.](./List-1/list-1.pdf) [Ver Solução.](./List-1/Exercise-List-1.ipynb)
+
    - **Lista 2:** Estudo de redes complexas, focado em propriedades específicas e análise estrutural. [Ver Enunciado.](./List-2/list-2.pdf) [Ver Solução.](./List-2/Exercise-List-2.ipynb)
+
    - **Lista 3:** Continuação do estudo de redes complexas, com ênfase em métricas e visualização. [Ver Enunciado.](./List-3/list-3.pdf) [Ver Solução.](./List-3/Exercise-List-3.ipynb)
+
    - **Lista 4:** Aprofundamento em análise de redes com exercícios avançados.[Ver Enunciado.](./List-4/list-4.pdf) [Ver Solução.](./List-4/Exercise-List-4.ipynb)
+
    - **Lista 5:** Foco em algoritmos e técnicas computacionais para análise de redes. [Ver Enunciado.](./List-5/list-5.pdf) [Ver Solução.](./List-5/Exercise-List-5.ipynb)
+
    - **Lista 6:** Exploração de temas específicos em redes complexas, com aplicação de conceitos avançados. [Ver Enunciado.](./List-6/list-6.pdf) [Ver Solução.](./List-6/Exercise-List-6.ipynb)
 
+
 #### 2. **Exercício Extra**
+
    - **Classificação:** Exercícios de classificação utilizando redes complexas. [Ver Enunciado](./Extra/projeto-classificacao.pdf) [Ver Solução.](./Extra/classification-exercise.ipynb)
 
+
 #### 3. **Revisão**
-    Neste diretório está o exercício de revisão de disciplina e alguns notebooks adicionais que foram gerados durante sua solução. Segue as descrições dos notebooks:
+
+Neste diretório está o exercício de revisão de disciplina e alguns notebooks adicionais que foram gerados durante sua solução. Segue as descrições dos notebooks:
 
    - **Avaliação de Redes Complexas:** Notebook com exercícios de revisão e avaliação. [Ver Solução](./Review/Avaliaç╞oRedesComplexas.ipynb)
 
