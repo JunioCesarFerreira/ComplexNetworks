@@ -2,21 +2,23 @@
 
 O diretório de exercícios inclui uma variedade de listas e materiais adicionais, abrangendo tópicos desde a análise de redes complexas até classificação e homologia. Abaixo está o catálogo dos exercícios, incluindo seus enunciados e links para os diretórios de solução no Jupyter.
 
+Todos exercícios deste diretórios utilizam a biblioteca networkx para processamento de medidas elementares de redes complexas.
+
 ### Catálogo dos Exercícios
 
 #### 1. **Listas de Exercícios**
 
-   - **Lista 1:** Análise de redes complexas com diversos conjuntos de dados. Inclui exercícios práticos de Python. [Ver Enunciado.](./List-1/list-1.pdf) [Ver Solução.](./List-1/Exercise-List-1.ipynb)
+   - **Lista 1:** Introdução à análise de redes complexas. Exercícios práticos em Python para calculo de medidas elementares como grau, n-ésimos momentos, coeficiente de complexidade, entropia de Shannon, transitividade e agrupamento médio. [Ver Enunciado.](./List-1/list-1.pdf) [Ver Solução.](./List-1/Exercise-List-1.ipynb)
 
-   - **Lista 2:** Estudo de redes complexas, focado em propriedades específicas e análise estrutural. [Ver Enunciado.](./List-2/list-2.pdf) [Ver Solução.](./List-2/Exercise-List-2.ipynb)
+   - **Lista 2:** Estudo de redes complexas, focado em propriedades específicas e análise estrutural. Tais como assortatividade e comprimentos de caminhos. [Ver Enunciado.](./List-2/list-2.pdf) [Ver Solução.](./List-2/Exercise-List-2.ipynb)
 
-   - **Lista 3:** Continuação do estudo de redes complexas, com ênfase em métricas e visualização. [Ver Enunciado.](./List-3/list-3.pdf) [Ver Solução.](./List-3/Exercise-List-3.ipynb)
+   - **Lista 3:** Continuação do estudo de redes complexas, com ênfase em métricas de centralidade e correlações. [Ver Enunciado.](./List-3/list-3.pdf) [Ver Solução.](./List-3/Exercise-List-3.ipynb)
 
-   - **Lista 4:** Aprofundamento em análise de redes com exercícios avançados.[Ver Enunciado.](./List-4/list-4.pdf) [Ver Solução.](./List-4/Exercise-List-4.ipynb)
+   - **Lista 4:** Aprofundamento em análise de redes com exercícios sobre modularidade e detecção de comunidades.[Ver Enunciado.](./List-4/list-4.pdf) [Ver Solução.](./List-4/Exercise-List-4.ipynb)
 
-   - **Lista 5:** Foco em algoritmos e técnicas computacionais para análise de redes. [Ver Enunciado.](./List-5/list-5.pdf) [Ver Solução.](./List-5/Exercise-List-5.ipynb)
+   - **Lista 5:** Foco em algoritmos e técnicas computacionais para gerar redes complexas tais como os modelos small-world e Erdos-Renyi. [Ver Enunciado.](./List-5/list-5.pdf) [Ver Solução.](./List-5/Exercise-List-5.ipynb)
 
-   - **Lista 6:** Exploração de temas específicos em redes complexas, com aplicação de conceitos avançados. [Ver Enunciado.](./List-6/list-6.pdf) [Ver Solução.](./List-6/Exercise-List-6.ipynb)
+   - **Lista 6:** Exploração das medidas já apresentadas anteriormente para comparar os modelos gerados de Erdos-Renyi, Small-World e Barabási-Albert. [Ver Enunciado.](./List-6/list-6.pdf) [Ver Solução.](./List-6/Exercise-List-6.ipynb)
 
 
 #### 2. **Exercício Extra**
