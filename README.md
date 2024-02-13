@@ -6,7 +6,7 @@ Este repositório consiste em uma compilação de notebooks Jupyter desenvolvido
 
 ### Exercises - Exercícios Elementares utilizando Networkx
 
-Diretório de notebooks de soluções de exercícios realizados durante o curso. Para mais detalhes veja o [README](./Exercises/README.md) do diretório.
+Diretório de notebooks de soluções de exercícios realizados durante o curso. Para mais detalhes [veja o README do diretório](./Exercises/README.md).
 
 ### MyProject - Projeto: Estruturas Topológicas de Alta Ordem em Redes Complexas
 
@@ -14,4 +14,19 @@ Neste diretório estão as bases de dados utilizadas no projeto final cujo tema 
 
 ### Notebooks
 
+Contém uma coleção de notebooks do Jupyter que servem como exemplos e notas de aula para da disciplina "Processos Dinâmicos em Redes Complexas", muitos destes foram copiados e modificados dos originais fornecidos pelo professor. Para mais detalhes [veja o README do diretório](./Notebooks/README.md).
+
 ### Studying
+
+Neste diretório estão vários scripts Pythos e notebooks Jupyter que serviram de rascunho para o aprendizados de diversas técnicas e métodos. Todo esse material ainda precisa ser catalogado.
+
+
+---
+
+
+## Licença
+
+Este repositório está licenciado sob a Licença MIT [LICENSE.md](LICENSE).
+
+
+---
