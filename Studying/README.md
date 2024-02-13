@@ -6,19 +6,19 @@ Este diretório contém uma compilação de arquivos de esboços, exemplos, e no
 
 ### Notebooks do Jupyter
 
-- **Conceitos Básicos**: Introdução aos conceitos básicos da disciplina.
+- **Conceitos Básicos**: Introdução aos conceitos básicos da disciplina, embora no meio do arquivo tenha um primeiro teste sobre construção de complexos simpliciais, e no final do arquivo um exemplo didático de visualização da decomposição SVD.
   - [Ver Notebook](./studying_1_basic_concepts.ipynb)
 
-- **Classificação**: Exploração de técnicas de classificação.
+- **Classificação**: Exploração de técnicas de classificação e visualização, como por exemplo: telhas de Voronoi, KNN e visualização com dimensão reduziada utilizando PCA, LDA e NCA.
   - [Ver Notebook](./studying_2_classification.ipynb)
 
-- **Homologia**: Estudo de conceitos de homologia.
+- **Homologia**: Estudo de conceitos de homologia que serviu de base para o [projeto final](../MyProject/complex-simplicial-network.ipynb).
   - [Ver Notebook](./studying_3_homology.ipynb)
 
-- **Teste**: Notebook contendo testes e exemplos práticos.
+- **Teste**: Notebook contendo testes e exemplos práticos sobre homologia e classificação utilizados no [projeto final](../MyProject/complex-simplicial-network.ipynb).
   - [Ver Notebook](./studying_4_test.ipynb)
 
-- **Abordagem Topológica**: Introdução à abordagem topológica em análise de redes.
+- **Abordagem Topológica**: Introdução à abordagem topológica com homologia persistente em análise de redes.
   - [Ver Notebook](./studying_intro_topological_approach.ipynb)
 
 ### Scripts Python
@@ -32,7 +32,7 @@ Este diretório contém uma compilação de arquivos de esboços, exemplos, e no
 - **Modularidade com iGraph**: Script para cálculo de modularidade usando a biblioteca iGraph.
   - [Ver Script](./modularity_multlevel_igraph.py)
 
-- **Esfera e Toro**: Visualização de esfera e toro.
+- **Esfera e Toro**: Visualização de esfera e toro em 3D.
   - [Ver Script](./sphere_and_torus.py)
 
 ### Gráficos e Imagens
