@@ -26,7 +26,7 @@ Neste diretório estão vários scripts Pythos e notebooks Jupyter que serviram 
 
 ## Licença
 
-Este repositório está licenciado sob a Licença MIT [LICENSE.md](LICENSE).
+Este repositório está licenciado sob a [Licença MIT](LICENSE).
 
 
 ---
