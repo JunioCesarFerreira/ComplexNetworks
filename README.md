@@ -18,7 +18,13 @@ Contém uma coleção de notebooks do Jupyter que servem como exemplos e notas d
 
 ### Studying
 
-Neste diretório estão vários scripts Pythos e notebooks Jupyter que serviram de rascunho para o aprendizados de diversas técnicas e métodos. Todo esse material ainda precisa ser catalogado.
+Neste diretório estão vários scripts Python e notebooks Jupyter que serviram de rascunho para o aprendizados de diversas técnicas e métodos. Este materia está calalogado no [seguinte arquivo](./Studying/README.md).
+
+---
+
+
+### Como Usar
+Para explorar os materiais didáticos, recomenda-se abrir os notebooks do Jupyter em um ambiente que suporte esta tecnologia, como VS Code, Jupyter Notebook ou JupyterLab. Os scripts Python podem ser executados em qualquer ambiente que suporte Python. Além disso, no Github, você pode ver todo o material, o que é útil para consultar rapidamente e usar como referência.
 
 
 ---
