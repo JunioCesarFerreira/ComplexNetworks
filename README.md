@@ -22,7 +22,7 @@ Contém uma coleção de notebooks do Jupyter que servem como exemplos e notas d
 
 ### Studying
 
-Neste diretório estão vários scripts Python e notebooks Jupyter que serviram de rascunho para o aprendizados de diversas técnicas e métodos. Este materia está calalogado no [seguinte arquivo](./Studying/README.md).
+Neste diretório estão vários scripts Python e notebooks Jupyter que serviram de rascunho para o aprendizados de diversas técnicas e métodos. Este material está calalogado no [seguinte arquivo](./Studying/README.md).
 
 ---
 
